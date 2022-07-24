@@ -15,7 +15,7 @@ class RootApp extends StatelessWidget {
           appBar: AppBar(
             title: Text.rich(
               TextSpan(
-                text: 'First',
+                text: 'Secound',
                 style: TextStyle(
                   color: Colors.black,
                 ),
